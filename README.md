@@ -18,8 +18,8 @@ You need the following to view the files on your computer.
 
 ## Built With
 
-* [HTML](https://www.w3.org/TR/html5/) - For creating Web pages
-* [Bootstrap 3.3.7](http://getbootstrap.com/) - The front end framework
+* [HTML] - For creating Web pages
+* [Bootstrap 3.3.7] - The front end framework
 * CSS - To create Style sheets
 
 
