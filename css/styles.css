@@ -1,0 +1,17 @@
+#heading{
+    background-color: #E5D27E;
+    text-align: center;
+}
+
+.col-md-8{
+   padding-left: 15%;
+}
+body{
+    background:grey;
+}
+.col-md-4{
+    background: #A0D599;
+    height: 50%;
+    margin-left:5px;
+    
+}
